@@ -8,10 +8,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "next": "10.0.9",
     "next-images": "^1.7.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
+    "react-listbox": "^1.2.13",
+    "react-responsive-combo-box": "^1.2.4",
     "styled-components": "^5.2.1"
   },
   "devDependencies": {
